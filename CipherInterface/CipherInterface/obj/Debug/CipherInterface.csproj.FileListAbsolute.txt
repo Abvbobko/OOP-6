@@ -1,0 +1,6 @@
+C:\Users\evgeny\source\repos\CipherInterface\CipherInterface\bin\Debug\CipherInterface.dll
+C:\Users\evgeny\source\repos\CipherInterface\CipherInterface\bin\Debug\CipherInterface.pdb
+C:\Users\evgeny\source\repos\CipherInterface\CipherInterface\obj\Debug\CipherInterface.csprojAssemblyReference.cache
+C:\Users\evgeny\source\repos\CipherInterface\CipherInterface\obj\Debug\CipherInterface.csproj.CoreCompileInputs.cache
+C:\Users\evgeny\source\repos\CipherInterface\CipherInterface\obj\Debug\CipherInterface.dll
+C:\Users\evgeny\source\repos\CipherInterface\CipherInterface\obj\Debug\CipherInterface.pdb

@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\OOP 4\ISort\Plugins\bin\Debug\netstandard2.0\Sort.deps.json
+C:\Users\hp\Desktop\OOP 4\ISort\Plugins\bin\Debug\netstandard2.0\Sort.dll
+C:\Users\hp\Desktop\OOP 4\ISort\Plugins\bin\Debug\netstandard2.0\Sort.pdb
+C:\Users\hp\Desktop\OOP 4\ISort\Plugins\obj\Debug\netstandard2.0\Sort.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\OOP 4\ISort\Plugins\obj\Debug\netstandard2.0\Sort.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOP 4\ISort\Plugins\obj\Debug\netstandard2.0\Sort.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOP 4\ISort\Plugins\obj\Debug\netstandard2.0\Sort.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOP 4\ISort\Plugins\obj\Debug\netstandard2.0\Sort.dll
+C:\Users\hp\Desktop\OOP 4\ISort\Plugins\obj\Debug\netstandard2.0\Sort.pdb

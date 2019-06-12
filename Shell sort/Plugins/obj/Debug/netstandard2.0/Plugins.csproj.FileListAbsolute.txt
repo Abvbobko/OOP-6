@@ -1,0 +1,24 @@
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\bin\Debug\netstandard2.0\Plugins.deps.json
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\bin\Debug\netstandard2.0\Plugins.dll
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\bin\Debug\netstandard2.0\Plugins.pdb
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\obj\Debug\netstandard2.0\Plugins.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\obj\Debug\netstandard2.0\Plugins.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\obj\Debug\netstandard2.0\Plugins.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\obj\Debug\netstandard2.0\Plugins.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\obj\Debug\netstandard2.0\Plugins.dll
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\obj\Debug\netstandard2.0\Plugins.pdb
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\bin\Debug\netstandard2.0\Sort.dll
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\obj\Debug\netstandard2.0\Plugins.csproj.CopyComplete
+C:\Users\hp\Desktop\OOP 4\Plugin\Plugins\bin\Debug\netstandard2.0\Sort.pdb
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\bin\Debug\netstandard2.0\Plugins.deps.json
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\bin\Debug\netstandard2.0\Plugins.dll
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\bin\Debug\netstandard2.0\Plugins.pdb
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\bin\Debug\netstandard2.0\Sort.dll
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\bin\Debug\netstandard2.0\Sort.pdb
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\obj\Debug\netstandard2.0\Plugins.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\obj\Debug\netstandard2.0\Plugins.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\obj\Debug\netstandard2.0\Plugins.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\obj\Debug\netstandard2.0\Plugins.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\obj\Debug\netstandard2.0\Plugins.csproj.CopyComplete
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\obj\Debug\netstandard2.0\Plugins.dll
+C:\Users\hp\Desktop\OOP 4\Merge Sort\Plugins\obj\Debug\netstandard2.0\Plugins.pdb
